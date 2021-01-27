@@ -1,3 +1,6 @@
 [submodule "orange"]
 	path = orange
 	url = git@gist.github.com.kyomachi551:25e655ab27361dc7a9803d8a737472e0.git
+[submodule "ハンバーガー"]
+	path = ハンバーガー
+	url = git@gist.github.com.kyomachi551:a808b1fe92bffcdc928958fc13808d5b.git
