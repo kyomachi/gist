@@ -7,3 +7,6 @@
 [submodule "a8c2ac400af80a7ec93f9495923a7c10"]
 	path = a8c2ac400af80a7ec93f9495923a7c10
 	url = git@gist.github.com.kyomachi551:a8c2ac400af80a7ec93f9495923a7c10.git
+[submodule "ドロップダウンメニュー"]
+	path = ドロップダウンメニュー
+	url = git@gist.github.com.kyomachi551:853994eb57c9465058cb2580499988e2.git
