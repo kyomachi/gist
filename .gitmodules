@@ -4,3 +4,6 @@
 [submodule "ハンバーガー"]
 	path = ハンバーガー
 	url = git@gist.github.com.kyomachi551:a808b1fe92bffcdc928958fc13808d5b.git
+[submodule "a8c2ac400af80a7ec93f9495923a7c10"]
+	path = a8c2ac400af80a7ec93f9495923a7c10
+	url = git@gist.github.com.kyomachi551:a8c2ac400af80a7ec93f9495923a7c10.git
